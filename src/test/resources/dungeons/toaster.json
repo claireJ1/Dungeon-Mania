@@ -1,0 +1,31 @@
+{
+    "entities": [
+        {
+            "x": 0,
+            "y": 0,
+            "type": "player"
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "type": "zombie_toast_spawner"
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "type": "wall"
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "type": "wall"
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "type": "wall"
+        }
+    ],
+    "width": 4,
+    "height": 4
+}

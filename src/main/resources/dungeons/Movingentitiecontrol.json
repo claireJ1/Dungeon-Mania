@@ -1,0 +1,50 @@
+{
+    "entities": [
+        {
+            "x": 3,
+            "y": 3,
+            "type": "spider"
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "type": "switch"  
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "type": "switch"
+        },
+        {
+            "x": 4,
+            "y": 3,
+            "type": "door",
+            "key" : 1
+        },
+        {
+            "x": 6,
+            "y": 6,
+            "type": "player"
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "type": "swamp_tile",
+            "movement_factor": 2
+        },
+        {
+            "x": 7,
+            "y": 7,
+            "type": "zombie_toast"           
+        },
+        {
+            "x": 7,
+            "y": 7,
+            "type": "swamp_tile",
+            "movement_factor": 2
+        }
+
+    ],
+    "width": 10,
+    "height": 10
+}
